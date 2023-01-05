@@ -50,13 +50,13 @@ nav li{
     margin: 0 200px;
     justify-content: space-between;
 }
-.sub title{
+.sub-title{
     font-weight: 600;
 font-size: 45px;
 margin-bottom: 20px;
    
 }
-.bannar title{
+.banner-title{
     font-weight: 700;
     font-size: 85px;
    
@@ -192,4 +192,15 @@ input{
 }
 .contact a{
     text-decoration: none;
+}
+/* contact button */
+.btn-con{
+    width: 160px;
+    height: 64px;
+    border: 1px solid #FD6E0A;
+border-radius: 5px;
+margin-left: 30px;
+font-weight: 700;
+font-size: 20px;
+color: #FD6E0A;
 }
